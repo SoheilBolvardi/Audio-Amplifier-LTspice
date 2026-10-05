@@ -1,0 +1,15 @@
+# LTspice generated files
+*.raw
+*.log
+*.net
+*.op.raw
+*.fft
+*.meas
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
